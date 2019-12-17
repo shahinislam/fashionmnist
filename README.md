@@ -1,0 +1,2 @@
+# fashionmnist
+Machine learning project
